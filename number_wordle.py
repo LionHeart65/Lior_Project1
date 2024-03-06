@@ -1,6 +1,5 @@
 import random
-num = "1196"
-#random.randint(1000,9999)
+num = random.randint(1000,9999)
 HITS = 0
 MISSES = 0
 def intro():
